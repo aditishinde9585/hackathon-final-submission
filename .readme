@@ -1,0 +1,13 @@
+Steps to Run the Project
+1.1. *Clone this repository:*
+
+```bash
+git clone https://github.com/aditishinde9585/hackathon-final-submission
+cd hackathon-final-submisssion
+2.Install required packages
+   pip install flask flask_sqlalchemy flask_login
+3.Run the app
+   python app.py
+4.Open your browser
+   http://127.0.0.1:5000/
+5.Create a new account and start managing your finances!
