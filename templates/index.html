@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+{% block content %}
+  <h2>Welcome, {{ current_user.username }}!</h2>
+
+  <!-- Transaction Form -->
+  <h3>Add a Transaction</h3>
+  <form method="POST" action="{{ url_for('add_transaction') }}">
+    <input type="number" name="amount" step="0.01" placeholder="Amount" required>
+    <input type="text" name="description" placeholder="Description" required>
+    <button type="submit">Add Transaction</button>
+  </form>
+
+  <br>
+
+  <!-- CSV Upload Form -->
+  <h3>Upload CSV</h3>
+  <form method="POST" action="{{ url_for('upload_csv') }}" enctype="multipart/form-data">
+    <input type="file" name="file" accept=".csv" required>
+    <button type="submit">Upload</button>
+  </form>
+
+  <br>
+
+  <!-- Transactions Table -->
+  <h3>Your Transactions</h3>
+  <table border="1" cellpadding="5">
+    <tr>
+      <th>Amount</th>
+      <th>Description</th>
+      <th>Category</th>
+    </tr>
+    {% for txn in transactions %}
+    <tr>
+      <td>{{ txn.amount }}</td>
+      <td>{{ txn.description }}</td>
+      <td>{{ txn.category }}</td>
+    </tr>
+    {% endfor %}
+  </table>
+
+  <br>
+
+  <!-- Category Totals -->
+  <h3>Category Totals</h3>
+  <ul>
+    {% for category, total in category_data.items() %}
+      <li>{{ category }}: ₹{{ total }}</li>
+    {% endfor %}
+  </ul>
+
+  <!-- Pie Chart Visualization -->
+  <h3>Spending Distribution</h3>
+  <canvas id="categoryChart" width="400" height="400"></canvas>
+  <script>
+    const ctx = document.getElementById('categoryChart').getContext('2d');
+    const categoryChart = new Chart(ctx, {
+      type: 'pie',
+      data: {
+        labels: {{ category_data.keys()|list|tojson }},
+        datasets: [{
+          data: {{ category_data.values()|list|tojson }},
+          backgroundColor: [
+            '#3498db', '#e74c3c', '#2ecc71', '#f1c40f', '#9b59b6', '#1abc9c'
+          ]
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            position: 'bottom'
+          }
+        }
+      }
+    });
+  </script>
+  <br>
+
+  <a href="{{ url_for('logout') }}">Logout</a>
+{% endblock %}

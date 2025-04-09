@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+<div class="container mt-5 text-center">
+  <h1 class="display-4">Welcome to Your Personal Finance Manager</h1>
+  <p class="lead">Track your income and expenses effortlessly.</p>
+  <hr class="my-4">
+  <a class="btn btn-primary btn-lg" href="{{ url_for('login') }}" role="button">Login</a>
+  <a class="btn btn-success btn-lg" href="{{ url_for('register') }}" role="button">Register</a>
+</div>
+{% endblock %}

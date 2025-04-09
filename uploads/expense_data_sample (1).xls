@@ -1,0 +1,1001 @@
+Date,Category,Amount,Payment_Mode,Notes
+2023-03-06,Utilities,4479.03,Net Banking,utilities expense
+2023-05-26,Food,723.1,UPI,food expense
+2023-12-29,Health,3905.67,Card,health expense
+2023-02-18,Food,2287.76,Net Banking,food expense
+2023-05-06,Education,1503.58,Cash,education expense
+2023-11-22,Entertainment,2193.17,Net Banking,entertainment expense
+2023-02-10,Education,1858.26,Card,education expense
+2023-08-16,Health,1955.51,UPI,health expense
+2023-06-14,Health,4574.13,Net Banking,health expense
+2023-02-03,Education,4133.31,Net Banking,education expense
+2023-04-18,Travel,1691.41,Card,travel expense
+2023-02-14,Education,2066.99,Cash,education expense
+2023-02-28,Travel,4010.94,Cash,travel expense
+2023-02-06,Entertainment,1339.91,Card,entertainment expense
+2023-01-12,Food,4774.55,Card,food expense
+2023-11-23,Entertainment,1253.88,UPI,entertainment expense
+2023-05-07,Food,3138.73,Cash,food expense
+2023-07-03,Shopping,2084.65,Cash,shopping expense
+2023-10-26,Utilities,4547.97,UPI,utilities expense
+2024-02-13,Education,1055.66,Net Banking,education expense
+2023-05-04,Health,1365.92,Cash,health expense
+2023-09-05,Health,1805.87,UPI,health expense
+2023-04-25,Shopping,4825.13,Card,shopping expense
+2024-01-17,Entertainment,1232.64,Card,entertainment expense
+2023-11-24,Entertainment,1176.27,Net Banking,entertainment expense
+2023-09-30,Travel,4547.24,UPI,travel expense
+2023-06-22,Travel,4949.68,Cash,travel expense
+2023-12-10,Shopping,361.92,Net Banking,shopping expense
+2023-05-21,Health,554.92,Cash,health expense
+2023-11-13,Entertainment,2217.04,Card,entertainment expense
+2023-03-21,Health,3714.13,Net Banking,health expense
+2023-06-22,Entertainment,2883.36,UPI,entertainment expense
+2023-06-02,Utilities,407.99,Card,utilities expense
+2023-08-24,Travel,1116.56,Net Banking,travel expense
+2024-02-17,Travel,2789.8,Card,travel expense
+2023-09-20,Travel,1934.05,Cash,travel expense
+2023-01-21,Education,4708.03,Net Banking,education expense
+2023-04-18,Utilities,4599.34,Card,utilities expense
+2023-01-09,Education,3614.72,Net Banking,education expense
+2023-05-15,Health,4022.77,UPI,health expense
+2023-04-02,Shopping,4039.04,Cash,shopping expense
+2023-03-17,Education,3819.43,Card,education expense
+2023-05-06,Health,2973.5,Net Banking,health expense
+2024-03-11,Food,2338.79,Cash,food expense
+2023-05-13,Education,408.82,Net Banking,education expense
+2024-02-26,Travel,1029.0,Card,travel expense
+2023-10-30,Education,4705.8,UPI,education expense
+2023-06-08,Food,633.98,UPI,food expense
+2023-04-28,Shopping,527.59,Net Banking,shopping expense
+2023-11-29,Education,3977.24,Net Banking,education expense
+2023-07-18,Health,865.14,UPI,health expense
+2023-12-13,Health,3196.41,Net Banking,health expense
+2024-01-07,Utilities,4325.47,Net Banking,utilities expense
+2023-04-09,Health,1145.18,Net Banking,health expense
+2023-07-11,Travel,4252.51,UPI,travel expense
+2023-06-02,Education,468.15,Card,education expense
+2023-04-14,Shopping,4909.32,Card,shopping expense
+2023-04-16,Entertainment,3847.69,UPI,entertainment expense
+2024-01-06,Entertainment,2062.25,Cash,entertainment expense
+2023-11-24,Shopping,580.97,Card,shopping expense
+2023-06-14,Entertainment,1646.75,Net Banking,entertainment expense
+2024-03-06,Education,307.49,Cash,education expense
+2023-05-25,Utilities,1843.63,UPI,utilities expense
+2023-12-12,Utilities,2841.54,UPI,utilities expense
+2023-08-21,Travel,380.85,Cash,travel expense
+2023-11-26,Education,3653.71,Cash,education expense
+2023-08-10,Shopping,2243.0,Net Banking,shopping expense
+2023-06-13,Shopping,4517.82,Card,shopping expense
+2023-10-14,Travel,2222.44,UPI,travel expense
+2024-02-23,Utilities,4872.54,Card,utilities expense
+2023-08-03,Shopping,3309.79,Card,shopping expense
+2023-10-11,Entertainment,2015.04,Card,entertainment expense
+2023-03-18,Food,3908.8,UPI,food expense
+2023-08-12,Entertainment,2932.7,UPI,entertainment expense
+2023-12-22,Entertainment,3127.14,Card,entertainment expense
+2024-01-26,Shopping,4317.95,Card,shopping expense
+2023-02-11,Food,1888.08,UPI,food expense
+2023-10-06,Education,4229.98,Card,education expense
+2023-04-11,Food,3674.69,Cash,food expense
+2024-03-24,Education,511.19,Card,education expense
+2024-02-16,Education,3648.02,Card,education expense
+2024-01-26,Food,557.59,Card,food expense
+2023-08-07,Utilities,4647.48,Card,utilities expense
+2023-09-03,Travel,2486.9,Card,travel expense
+2024-03-17,Utilities,347.69,UPI,utilities expense
+2024-02-14,Entertainment,236.68,UPI,entertainment expense
+2023-06-26,Food,4776.73,UPI,food expense
+2023-05-26,Travel,902.49,Net Banking,travel expense
+2023-03-26,Entertainment,1038.79,UPI,entertainment expense
+2024-02-17,Health,2027.21,UPI,health expense
+2024-02-16,Utilities,1270.26,Net Banking,utilities expense
+2023-09-15,Food,2496.54,Card,food expense
+2023-07-25,Food,2336.11,UPI,food expense
+2024-01-03,Health,1300.6,Cash,health expense
+2023-08-27,Health,1821.84,Card,health expense
+2023-05-12,Education,2159.95,UPI,education expense
+2023-08-06,Shopping,1573.41,Cash,shopping expense
+2023-05-31,Health,2110.44,Net Banking,health expense
+2023-01-09,Food,2374.77,Card,food expense
+2023-03-15,Education,2412.46,Cash,education expense
+2023-10-15,Utilities,3277.03,UPI,utilities expense
+2023-11-28,Utilities,2332.49,Net Banking,utilities expense
+2023-10-15,Utilities,2229.03,Net Banking,utilities expense
+2023-01-24,Travel,1894.06,Net Banking,travel expense
+2023-10-20,Food,4242.26,Cash,food expense
+2023-01-27,Food,3637.87,Card,food expense
+2024-01-30,Health,4101.3,Net Banking,health expense
+2023-03-19,Shopping,540.71,Cash,shopping expense
+2023-03-05,Utilities,2603.08,Net Banking,utilities expense
+2023-07-16,Utilities,4598.74,UPI,utilities expense
+2023-09-09,Education,123.16,UPI,education expense
+2024-03-23,Health,4278.93,UPI,health expense
+2023-07-12,Utilities,4475.17,Cash,utilities expense
+2023-01-16,Travel,4603.81,UPI,travel expense
+2023-02-18,Health,213.87,Net Banking,health expense
+2023-03-05,Entertainment,4545.35,Cash,entertainment expense
+2023-09-11,Entertainment,3703.96,Card,entertainment expense
+2023-11-11,Education,4242.17,Cash,education expense
+2023-10-11,Education,759.65,Cash,education expense
+2023-08-04,Food,2638.64,UPI,food expense
+2023-10-08,Shopping,1548.77,UPI,shopping expense
+2023-01-06,Food,345.5,Net Banking,food expense
+2023-03-07,Utilities,1805.14,Net Banking,utilities expense
+2023-07-17,Utilities,4354.37,Cash,utilities expense
+2023-08-13,Utilities,2679.53,UPI,utilities expense
+2024-03-12,Education,990.6,Cash,education expense
+2023-12-09,Entertainment,1703.16,Cash,entertainment expense
+2023-07-24,Travel,985.77,UPI,travel expense
+2023-03-21,Food,2347.56,Net Banking,food expense
+2023-09-26,Education,1744.67,Cash,education expense
+2023-01-06,Utilities,2032.94,UPI,utilities expense
+2024-01-08,Travel,3858.25,Cash,travel expense
+2023-07-14,Travel,4039.21,Cash,travel expense
+2024-01-23,Utilities,1500.18,UPI,utilities expense
+2023-12-02,Shopping,4748.63,Net Banking,shopping expense
+2023-12-08,Food,2339.78,Card,food expense
+2024-01-02,Education,859.71,Net Banking,education expense
+2023-02-14,Utilities,3811.37,Cash,utilities expense
+2023-10-13,Health,2261.38,Net Banking,health expense
+2023-02-22,Utilities,3163.43,Cash,utilities expense
+2023-04-22,Entertainment,4365.68,Card,entertainment expense
+2023-12-29,Education,2500.41,Net Banking,education expense
+2023-12-15,Education,4716.14,Cash,education expense
+2023-01-02,Food,3451.36,Cash,food expense
+2023-05-18,Travel,1092.31,UPI,travel expense
+2023-02-09,Food,4780.06,UPI,food expense
+2023-02-15,Entertainment,4201.9,Cash,entertainment expense
+2023-08-13,Utilities,4193.76,Cash,utilities expense
+2023-02-06,Shopping,321.66,Card,shopping expense
+2023-12-08,Education,3177.78,Net Banking,education expense
+2024-02-15,Utilities,4150.5,Card,utilities expense
+2023-12-08,Food,787.48,UPI,food expense
+2023-03-06,Entertainment,2778.66,Net Banking,entertainment expense
+2023-12-06,Food,3867.79,UPI,food expense
+2024-01-27,Utilities,1703.15,UPI,utilities expense
+2023-07-06,Utilities,1636.04,UPI,utilities expense
+2023-04-16,Education,4804.15,Net Banking,education expense
+2023-02-24,Health,322.94,Card,health expense
+2023-02-27,Travel,1938.71,UPI,travel expense
+2023-05-26,Education,738.54,Net Banking,education expense
+2023-02-28,Entertainment,2940.12,Cash,entertainment expense
+2023-08-04,Utilities,2362.64,Cash,utilities expense
+2023-02-25,Utilities,3448.79,Net Banking,utilities expense
+2024-01-11,Food,4885.52,Cash,food expense
+2024-03-10,Entertainment,1678.75,Net Banking,entertainment expense
+2024-03-08,Shopping,353.36,UPI,shopping expense
+2023-02-21,Utilities,1869.73,Net Banking,utilities expense
+2023-09-11,Food,703.69,UPI,food expense
+2023-10-31,Utilities,3825.58,Cash,utilities expense
+2024-01-10,Education,768.38,UPI,education expense
+2023-05-18,Utilities,3905.8,UPI,utilities expense
+2023-01-27,Food,971.97,Cash,food expense
+2023-01-25,Utilities,4030.74,Net Banking,utilities expense
+2024-02-13,Education,2669.48,Net Banking,education expense
+2023-05-03,Entertainment,3069.85,Net Banking,entertainment expense
+2023-06-19,Food,3864.69,Net Banking,food expense
+2023-09-24,Health,1315.52,UPI,health expense
+2023-03-30,Entertainment,928.8,Net Banking,entertainment expense
+2023-07-12,Education,3932.27,Cash,education expense
+2023-03-05,Shopping,4209.15,Card,shopping expense
+2023-09-06,Shopping,1502.19,Cash,shopping expense
+2023-11-27,Shopping,3189.79,Card,shopping expense
+2023-02-13,Health,3333.99,UPI,health expense
+2023-07-05,Travel,363.8,Card,travel expense
+2023-10-27,Health,1782.91,UPI,health expense
+2024-02-07,Food,3515.84,Cash,food expense
+2023-05-17,Entertainment,1136.24,Cash,entertainment expense
+2023-04-04,Shopping,4731.75,Card,shopping expense
+2023-03-20,Food,1006.43,Net Banking,food expense
+2023-04-22,Travel,3419.62,Net Banking,travel expense
+2023-10-18,Education,730.16,Net Banking,education expense
+2023-05-16,Entertainment,1587.79,Net Banking,entertainment expense
+2023-01-19,Education,2284.21,Net Banking,education expense
+2023-07-21,Utilities,1441.02,Cash,utilities expense
+2023-10-12,Food,1794.07,UPI,food expense
+2023-12-26,Utilities,3299.1,Card,utilities expense
+2023-09-06,Food,3712.62,Card,food expense
+2023-07-30,Shopping,1170.31,Cash,shopping expense
+2023-05-18,Food,1041.7,UPI,food expense
+2024-02-17,Travel,2933.23,UPI,travel expense
+2023-12-30,Travel,4333.85,UPI,travel expense
+2024-02-14,Health,447.75,Card,health expense
+2023-10-15,Health,967.91,UPI,health expense
+2023-02-16,Shopping,1990.31,Card,shopping expense
+2024-03-07,Utilities,265.37,Card,utilities expense
+2023-10-21,Utilities,4850.41,Net Banking,utilities expense
+2023-03-05,Health,1260.34,UPI,health expense
+2023-03-22,Health,4153.71,Net Banking,health expense
+2023-09-02,Travel,4943.02,Card,travel expense
+2023-07-09,Education,427.26,Cash,education expense
+2023-12-31,Shopping,1348.81,Net Banking,shopping expense
+2024-02-20,Shopping,3938.47,Cash,shopping expense
+2023-12-03,Food,3708.75,Cash,food expense
+2023-01-17,Travel,1028.32,Cash,travel expense
+2023-08-22,Entertainment,1612.63,Net Banking,entertainment expense
+2023-01-06,Health,2226.66,Card,health expense
+2024-03-25,Entertainment,2617.14,Cash,entertainment expense
+2023-11-20,Shopping,2939.2,Cash,shopping expense
+2023-10-11,Health,3453.51,Card,health expense
+2024-02-08,Entertainment,4808.28,Net Banking,entertainment expense
+2023-07-16,Shopping,900.86,Cash,shopping expense
+2023-12-21,Travel,591.23,Card,travel expense
+2023-01-29,Travel,3846.28,Net Banking,travel expense
+2023-04-26,Utilities,1748.43,Card,utilities expense
+2023-12-20,Travel,3529.5,Card,travel expense
+2023-01-31,Utilities,2581.26,Cash,utilities expense
+2023-07-28,Travel,1647.91,UPI,travel expense
+2023-11-23,Education,2172.55,Net Banking,education expense
+2023-01-22,Travel,2851.07,Cash,travel expense
+2024-03-26,Entertainment,3950.37,Card,entertainment expense
+2023-05-21,Entertainment,2704.6,Cash,entertainment expense
+2023-03-01,Food,3691.34,Net Banking,food expense
+2023-04-10,Education,529.97,Net Banking,education expense
+2024-03-24,Education,745.69,Net Banking,education expense
+2023-10-13,Travel,334.38,UPI,travel expense
+2023-06-24,Health,363.47,Cash,health expense
+2024-02-03,Food,2465.2,Cash,food expense
+2023-12-02,Education,2931.44,Net Banking,education expense
+2023-05-27,Entertainment,1512.36,UPI,entertainment expense
+2023-05-11,Travel,1999.95,Cash,travel expense
+2023-11-08,Health,2609.47,Net Banking,health expense
+2023-12-10,Education,424.99,UPI,education expense
+2023-04-09,Education,2825.59,Net Banking,education expense
+2023-11-01,Shopping,2731.22,Net Banking,shopping expense
+2024-01-25,Utilities,4586.78,Net Banking,utilities expense
+2023-10-09,Health,1254.33,Net Banking,health expense
+2023-09-30,Shopping,4454.78,UPI,shopping expense
+2023-07-15,Entertainment,1978.28,Card,entertainment expense
+2024-01-28,Entertainment,4557.52,UPI,entertainment expense
+2023-02-07,Entertainment,2033.59,Cash,entertainment expense
+2024-03-24,Shopping,2617.24,Card,shopping expense
+2023-02-19,Entertainment,983.93,UPI,entertainment expense
+2024-03-07,Food,4160.57,UPI,food expense
+2023-07-14,Entertainment,3023.71,Net Banking,entertainment expense
+2023-09-05,Shopping,4115.47,Cash,shopping expense
+2023-12-04,Health,3429.42,Cash,health expense
+2023-12-13,Education,1558.08,Cash,education expense
+2023-10-08,Utilities,946.34,UPI,utilities expense
+2023-10-10,Food,1643.38,UPI,food expense
+2023-01-04,Entertainment,548.43,Card,entertainment expense
+2023-10-24,Education,2994.31,Card,education expense
+2023-08-26,Entertainment,481.49,Card,entertainment expense
+2023-10-03,Entertainment,976.03,Card,entertainment expense
+2024-02-12,Shopping,1942.49,UPI,shopping expense
+2023-10-23,Health,3453.06,UPI,health expense
+2024-02-12,Shopping,3146.27,Cash,shopping expense
+2023-12-19,Shopping,4446.9,Cash,shopping expense
+2023-12-17,Health,2427.5,Card,health expense
+2023-03-04,Education,2545.4,Cash,education expense
+2023-04-20,Travel,3952.45,Cash,travel expense
+2023-11-15,Utilities,1926.91,UPI,utilities expense
+2023-05-20,Utilities,2330.53,Card,utilities expense
+2023-02-08,Utilities,3768.09,Card,utilities expense
+2023-04-27,Entertainment,3407.89,Card,entertainment expense
+2024-02-20,Shopping,1916.32,Cash,shopping expense
+2023-10-07,Travel,672.06,Card,travel expense
+2024-01-23,Travel,1734.82,UPI,travel expense
+2023-06-03,Travel,2929.21,Card,travel expense
+2023-07-26,Utilities,1397.89,UPI,utilities expense
+2023-09-01,Travel,4432.11,UPI,travel expense
+2023-10-20,Entertainment,2004.12,UPI,entertainment expense
+2023-07-01,Food,800.59,Card,food expense
+2023-02-13,Entertainment,1904.47,Card,entertainment expense
+2023-02-28,Education,3304.38,Net Banking,education expense
+2023-04-07,Travel,134.68,Card,travel expense
+2024-03-08,Education,4234.4,Net Banking,education expense
+2023-08-28,Education,4698.39,UPI,education expense
+2024-02-25,Health,4535.45,Net Banking,health expense
+2023-03-19,Education,583.51,Card,education expense
+2023-07-11,Entertainment,2418.69,Card,entertainment expense
+2023-04-16,Food,3827.65,Net Banking,food expense
+2024-03-10,Entertainment,4267.73,UPI,entertainment expense
+2023-02-05,Travel,4138.56,UPI,travel expense
+2024-02-07,Education,2881.84,UPI,education expense
+2023-09-28,Shopping,1140.56,Card,shopping expense
+2023-06-07,Entertainment,3507.13,Card,entertainment expense
+2023-03-25,Food,4220.08,UPI,food expense
+2023-03-16,Education,671.21,Net Banking,education expense
+2023-02-11,Shopping,2162.22,UPI,shopping expense
+2023-11-05,Education,2053.14,Card,education expense
+2023-09-15,Food,395.34,UPI,food expense
+2024-01-06,Health,2690.46,Net Banking,health expense
+2023-01-03,Travel,3036.27,Net Banking,travel expense
+2023-07-23,Travel,1574.31,Net Banking,travel expense
+2023-05-07,Utilities,3928.84,Cash,utilities expense
+2023-03-07,Utilities,3094.73,Card,utilities expense
+2024-01-28,Education,4679.68,Card,education expense
+2024-02-01,Shopping,2217.14,Card,shopping expense
+2024-01-12,Health,1826.58,Card,health expense
+2023-08-15,Education,1038.59,UPI,education expense
+2023-02-17,Shopping,1395.9,Card,shopping expense
+2023-06-09,Travel,1785.1,Net Banking,travel expense
+2024-02-06,Shopping,4705.8,Net Banking,shopping expense
+2023-01-21,Education,206.05,Card,education expense
+2023-11-28,Education,2746.96,UPI,education expense
+2023-01-19,Shopping,262.45,Card,shopping expense
+2023-03-10,Travel,3462.17,Net Banking,travel expense
+2023-03-05,Health,3304.64,Card,health expense
+2024-01-11,Shopping,3929.92,UPI,shopping expense
+2023-05-23,Shopping,2461.98,UPI,shopping expense
+2023-03-20,Education,1637.12,Card,education expense
+2023-05-03,Travel,1443.09,Card,travel expense
+2023-08-15,Food,4997.46,Cash,food expense
+2024-01-19,Health,3107.89,Net Banking,health expense
+2024-02-03,Health,3655.38,Net Banking,health expense
+2023-03-20,Health,3339.84,Net Banking,health expense
+2023-12-16,Travel,161.66,Card,travel expense
+2023-07-27,Food,3830.09,UPI,food expense
+2024-03-23,Entertainment,3716.29,Cash,entertainment expense
+2023-09-26,Food,4853.16,Net Banking,food expense
+2023-03-11,Food,4432.51,UPI,food expense
+2023-05-12,Utilities,816.57,Card,utilities expense
+2023-05-11,Education,2200.36,Card,education expense
+2023-04-19,Education,3140.5,Net Banking,education expense
+2023-05-18,Shopping,406.41,UPI,shopping expense
+2023-04-28,Shopping,3943.37,Cash,shopping expense
+2023-04-19,Entertainment,3939.85,Cash,entertainment expense
+2023-12-26,Food,1944.83,Cash,food expense
+2024-03-12,Entertainment,3834.31,Card,entertainment expense
+2023-06-23,Education,551.06,Cash,education expense
+2023-09-21,Food,2747.53,UPI,food expense
+2023-04-08,Entertainment,1921.09,Net Banking,entertainment expense
+2023-10-21,Education,2764.3,UPI,education expense
+2024-01-31,Shopping,3373.69,Net Banking,shopping expense
+2024-01-06,Food,3260.26,Cash,food expense
+2023-01-13,Entertainment,4087.43,Cash,entertainment expense
+2023-10-24,Food,4785.57,Net Banking,food expense
+2023-09-19,Health,2528.43,Net Banking,health expense
+2023-01-13,Food,468.98,Cash,food expense
+2023-07-28,Food,3197.47,Net Banking,food expense
+2023-01-19,Health,1076.77,UPI,health expense
+2023-12-10,Shopping,4532.83,Card,shopping expense
+2023-03-28,Food,2408.61,UPI,food expense
+2023-06-30,Shopping,1352.12,Net Banking,shopping expense
+2023-01-02,Food,4275.57,Cash,food expense
+2023-09-19,Education,3154.53,UPI,education expense
+2023-11-29,Utilities,2694.97,Card,utilities expense
+2023-01-05,Health,2068.92,UPI,health expense
+2023-05-21,Education,2579.26,Cash,education expense
+2023-08-31,Entertainment,1360.39,Card,entertainment expense
+2024-03-04,Education,4555.9,Cash,education expense
+2023-01-26,Education,561.41,UPI,education expense
+2023-11-03,Entertainment,4503.27,Cash,entertainment expense
+2023-05-10,Education,1233.02,Card,education expense
+2023-08-20,Education,797.64,Card,education expense
+2023-03-27,Entertainment,3006.27,UPI,entertainment expense
+2023-11-11,Travel,3233.13,Cash,travel expense
+2023-06-21,Shopping,2467.42,Net Banking,shopping expense
+2023-06-30,Shopping,3441.46,Cash,shopping expense
+2023-07-03,Food,1021.19,Cash,food expense
+2023-09-30,Entertainment,3681.45,UPI,entertainment expense
+2024-01-28,Food,3736.65,Card,food expense
+2023-06-20,Travel,351.89,Cash,travel expense
+2023-03-24,Entertainment,1170.91,Net Banking,entertainment expense
+2023-04-29,Entertainment,3235.42,Net Banking,entertainment expense
+2023-05-31,Travel,675.27,UPI,travel expense
+2023-06-01,Food,4094.48,Cash,food expense
+2023-08-18,Travel,3425.96,Net Banking,travel expense
+2023-09-25,Utilities,1437.1,UPI,utilities expense
+2023-06-26,Entertainment,4459.48,Cash,entertainment expense
+2024-01-03,Utilities,312.65,Cash,utilities expense
+2023-01-09,Education,2254.03,Cash,education expense
+2023-02-26,Travel,1429.4,Net Banking,travel expense
+2023-07-21,Health,1724.66,UPI,health expense
+2023-09-22,Food,2714.13,Card,food expense
+2023-03-03,Entertainment,3736.97,Cash,entertainment expense
+2023-01-02,Education,2880.13,Cash,education expense
+2024-03-03,Health,4327.76,UPI,health expense
+2023-02-17,Travel,551.65,Card,travel expense
+2023-11-26,Food,940.7,Card,food expense
+2023-08-18,Shopping,1957.07,UPI,shopping expense
+2023-04-12,Shopping,3635.39,Net Banking,shopping expense
+2023-01-31,Utilities,2611.85,Card,utilities expense
+2024-02-22,Health,2621.44,Card,health expense
+2024-01-21,Travel,3407.34,UPI,travel expense
+2023-03-06,Shopping,2987.89,Net Banking,shopping expense
+2023-12-13,Health,1994.07,Cash,health expense
+2023-01-11,Entertainment,3062.24,UPI,entertainment expense
+2023-12-08,Entertainment,1164.86,UPI,entertainment expense
+2023-10-22,Shopping,3674.07,Cash,shopping expense
+2023-08-17,Shopping,3775.15,UPI,shopping expense
+2023-03-11,Shopping,2504.34,UPI,shopping expense
+2023-11-15,Health,4197.16,Net Banking,health expense
+2024-02-07,Utilities,3581.94,Card,utilities expense
+2023-04-24,Health,3215.78,Cash,health expense
+2023-09-10,Food,1424.53,Card,food expense
+2023-01-07,Food,2137.86,UPI,food expense
+2023-08-23,Travel,1509.66,Card,travel expense
+2023-10-06,Utilities,1220.62,Net Banking,utilities expense
+2023-01-20,Health,227.64,Net Banking,health expense
+2023-07-26,Utilities,1880.72,UPI,utilities expense
+2023-09-13,Entertainment,4642.46,UPI,entertainment expense
+2024-01-26,Utilities,4033.27,Net Banking,utilities expense
+2023-04-07,Utilities,3389.72,Cash,utilities expense
+2023-08-17,Shopping,4289.29,Net Banking,shopping expense
+2023-07-12,Entertainment,1878.38,Card,entertainment expense
+2024-02-08,Travel,2074.8,Cash,travel expense
+2024-01-21,Entertainment,1239.08,Cash,entertainment expense
+2023-04-30,Health,2025.68,UPI,health expense
+2024-01-11,Utilities,681.91,Cash,utilities expense
+2024-03-03,Travel,3879.32,Cash,travel expense
+2023-11-23,Education,2256.69,Net Banking,education expense
+2023-06-14,Food,1004.81,Card,food expense
+2023-07-15,Health,3173.07,UPI,health expense
+2023-03-24,Education,2528.57,Net Banking,education expense
+2024-01-13,Utilities,3191.81,Cash,utilities expense
+2023-01-27,Education,4881.36,Cash,education expense
+2024-01-31,Entertainment,4399.13,UPI,entertainment expense
+2023-03-04,Education,1042.56,Card,education expense
+2023-05-11,Shopping,1600.18,Card,shopping expense
+2023-08-04,Entertainment,4699.61,UPI,entertainment expense
+2024-02-17,Health,4126.07,Net Banking,health expense
+2023-12-15,Shopping,800.25,Net Banking,shopping expense
+2023-10-09,Entertainment,1618.61,Card,entertainment expense
+2023-06-22,Education,753.68,Card,education expense
+2023-10-17,Education,1498.86,UPI,education expense
+2023-01-12,Education,827.81,Card,education expense
+2023-03-18,Food,4877.81,Net Banking,food expense
+2023-03-04,Travel,371.09,Cash,travel expense
+2023-11-24,Utilities,2891.8,Card,utilities expense
+2024-02-06,Shopping,364.96,Net Banking,shopping expense
+2024-02-17,Entertainment,4584.3,UPI,entertainment expense
+2023-01-16,Education,250.91,Net Banking,education expense
+2023-02-10,Utilities,1087.89,Cash,utilities expense
+2023-05-12,Utilities,4462.18,Card,utilities expense
+2023-03-01,Shopping,2041.39,Card,shopping expense
+2023-09-29,Utilities,4700.89,UPI,utilities expense
+2023-09-15,Travel,4336.49,Net Banking,travel expense
+2023-05-27,Food,728.99,Net Banking,food expense
+2023-03-14,Utilities,2572.27,Net Banking,utilities expense
+2024-01-03,Entertainment,4165.42,Net Banking,entertainment expense
+2023-10-05,Health,146.45,Cash,health expense
+2023-12-08,Utilities,2083.44,Net Banking,utilities expense
+2023-01-06,Entertainment,4379.67,Card,entertainment expense
+2023-10-28,Shopping,2410.76,Net Banking,shopping expense
+2023-07-26,Utilities,3187.79,Card,utilities expense
+2023-05-24,Education,4244.44,Net Banking,education expense
+2023-08-02,Travel,1402.17,Net Banking,travel expense
+2023-08-16,Utilities,733.08,Net Banking,utilities expense
+2023-11-20,Shopping,2376.03,Card,shopping expense
+2023-12-24,Travel,4402.42,Card,travel expense
+2023-07-07,Education,1618.76,UPI,education expense
+2023-11-14,Shopping,999.66,Cash,shopping expense
+2023-05-10,Utilities,3546.94,Net Banking,utilities expense
+2023-05-25,Utilities,3898.92,Card,utilities expense
+2023-12-05,Health,752.25,Cash,health expense
+2023-08-19,Travel,4366.03,Cash,travel expense
+2023-04-13,Shopping,3536.44,UPI,shopping expense
+2023-04-13,Entertainment,2931.01,Card,entertainment expense
+2023-10-01,Shopping,1555.7,Cash,shopping expense
+2024-02-29,Shopping,3128.18,UPI,shopping expense
+2024-02-21,Health,3397.39,UPI,health expense
+2023-10-07,Health,4126.05,Card,health expense
+2023-08-18,Utilities,1827.39,Cash,utilities expense
+2023-02-28,Travel,4133.81,Card,travel expense
+2023-01-23,Health,2440.82,Net Banking,health expense
+2023-02-11,Food,2723.29,UPI,food expense
+2023-09-03,Food,2020.99,UPI,food expense
+2023-07-26,Utilities,3497.35,Card,utilities expense
+2023-03-19,Health,2128.18,Cash,health expense
+2023-09-22,Health,2701.89,UPI,health expense
+2023-01-14,Entertainment,3786.09,Cash,entertainment expense
+2024-01-16,Food,4601.96,Cash,food expense
+2024-01-20,Utilities,922.01,Net Banking,utilities expense
+2024-03-25,Food,4389.09,Card,food expense
+2023-07-19,Entertainment,4306.91,Cash,entertainment expense
+2023-05-02,Travel,298.85,Card,travel expense
+2023-12-27,Shopping,123.19,Net Banking,shopping expense
+2024-03-25,Food,676.87,Card,food expense
+2023-01-06,Travel,1204.74,Cash,travel expense
+2023-01-20,Education,2228.98,Card,education expense
+2023-06-21,Food,4326.5,UPI,food expense
+2024-03-17,Shopping,543.73,Cash,shopping expense
+2023-03-15,Shopping,2903.33,Net Banking,shopping expense
+2023-10-31,Health,933.64,UPI,health expense
+2023-03-13,Entertainment,4079.65,UPI,entertainment expense
+2024-02-04,Education,3166.97,Net Banking,education expense
+2023-11-30,Entertainment,2378.08,Net Banking,entertainment expense
+2023-06-20,Entertainment,1778.32,Card,entertainment expense
+2023-07-28,Travel,3060.55,UPI,travel expense
+2023-10-12,Entertainment,4466.51,Cash,entertainment expense
+2023-10-02,Travel,3524.9,UPI,travel expense
+2024-03-10,Entertainment,4062.18,Net Banking,entertainment expense
+2023-06-01,Utilities,388.7,Card,utilities expense
+2023-10-01,Travel,4790.96,Card,travel expense
+2024-01-10,Food,1675.29,Net Banking,food expense
+2023-10-26,Shopping,2834.09,UPI,shopping expense
+2023-08-16,Health,4491.61,Card,health expense
+2023-01-21,Health,4034.42,Cash,health expense
+2023-01-12,Health,194.2,Cash,health expense
+2023-08-15,Health,1811.54,Card,health expense
+2023-09-22,Entertainment,3372.73,UPI,entertainment expense
+2023-04-22,Food,1891.63,Card,food expense
+2023-08-28,Utilities,1811.22,UPI,utilities expense
+2024-03-20,Education,3691.14,UPI,education expense
+2023-07-23,Health,1332.37,Card,health expense
+2023-09-20,Food,3885.06,UPI,food expense
+2023-08-02,Entertainment,2394.07,Net Banking,entertainment expense
+2023-06-21,Shopping,579.82,Cash,shopping expense
+2023-01-06,Food,4058.19,Net Banking,food expense
+2023-12-21,Shopping,3646.87,UPI,shopping expense
+2023-08-06,Food,4677.04,Card,food expense
+2023-10-16,Food,4194.22,Cash,food expense
+2024-02-08,Travel,4635.81,Card,travel expense
+2023-07-27,Utilities,482.21,Card,utilities expense
+2023-12-06,Travel,4070.58,UPI,travel expense
+2023-06-28,Food,4396.77,Net Banking,food expense
+2024-02-09,Travel,2667.92,Card,travel expense
+2023-01-21,Food,3909.59,UPI,food expense
+2023-12-05,Utilities,2610.19,Cash,utilities expense
+2023-01-27,Health,3975.12,Card,health expense
+2023-06-05,Health,672.92,Net Banking,health expense
+2023-03-25,Entertainment,3823.59,Cash,entertainment expense
+2023-01-20,Entertainment,1412.96,UPI,entertainment expense
+2023-02-09,Travel,354.59,Card,travel expense
+2023-01-28,Education,3913.66,Net Banking,education expense
+2023-02-27,Entertainment,874.87,Cash,entertainment expense
+2023-10-27,Entertainment,2580.28,Net Banking,entertainment expense
+2024-02-09,Education,881.68,Cash,education expense
+2023-03-27,Education,4779.91,Net Banking,education expense
+2023-04-29,Utilities,916.07,Card,utilities expense
+2023-03-29,Food,2532.64,Card,food expense
+2023-07-04,Shopping,2384.99,Card,shopping expense
+2023-04-26,Travel,4149.46,UPI,travel expense
+2023-01-10,Travel,4529.6,Net Banking,travel expense
+2023-09-01,Travel,2120.83,UPI,travel expense
+2023-04-19,Utilities,4892.28,Card,utilities expense
+2023-08-27,Shopping,1969.36,Cash,shopping expense
+2023-02-09,Health,871.5,Card,health expense
+2023-10-26,Utilities,3296.0,Card,utilities expense
+2023-05-09,Education,4712.46,Cash,education expense
+2023-11-13,Shopping,3863.4,UPI,shopping expense
+2024-01-24,Health,4308.0,Card,health expense
+2023-03-28,Food,882.18,UPI,food expense
+2023-04-13,Health,1698.94,UPI,health expense
+2023-05-08,Utilities,1424.5,UPI,utilities expense
+2023-04-12,Travel,2504.9,Cash,travel expense
+2023-10-22,Shopping,1973.56,UPI,shopping expense
+2024-02-11,Education,2984.92,UPI,education expense
+2023-11-28,Entertainment,232.4,Net Banking,entertainment expense
+2023-02-13,Shopping,1831.29,Card,shopping expense
+2023-08-16,Health,233.3,Card,health expense
+2024-03-12,Education,3711.59,Card,education expense
+2023-12-03,Food,3571.55,Cash,food expense
+2023-05-26,Health,3001.0,Net Banking,health expense
+2023-02-11,Shopping,1358.4,Card,shopping expense
+2023-05-21,Education,3304.38,Cash,education expense
+2023-02-11,Shopping,1048.57,UPI,shopping expense
+2023-08-10,Shopping,704.22,Cash,shopping expense
+2024-01-23,Entertainment,3480.43,Net Banking,entertainment expense
+2023-02-20,Travel,582.98,Cash,travel expense
+2024-01-05,Education,4643.65,Cash,education expense
+2024-01-11,Utilities,4181.38,Card,utilities expense
+2023-04-10,Shopping,3343.35,Cash,shopping expense
+2023-02-08,Education,2263.83,UPI,education expense
+2023-04-22,Health,3093.07,UPI,health expense
+2024-03-09,Food,1776.37,Cash,food expense
+2023-08-21,Education,3586.41,Card,education expense
+2023-12-29,Entertainment,1841.38,Card,entertainment expense
+2024-03-04,Utilities,4891.26,Card,utilities expense
+2023-01-26,Shopping,4621.51,Card,shopping expense
+2023-10-30,Education,2943.17,UPI,education expense
+2023-11-05,Food,335.32,UPI,food expense
+2023-03-24,Travel,2008.06,Cash,travel expense
+2024-01-20,Entertainment,4477.34,Card,entertainment expense
+2023-06-08,Education,563.26,Net Banking,education expense
+2023-08-06,Shopping,1981.74,Net Banking,shopping expense
+2023-07-22,Travel,237.45,Card,travel expense
+2023-07-11,Entertainment,2487.65,Cash,entertainment expense
+2023-07-29,Entertainment,1197.28,Cash,entertainment expense
+2024-01-06,Food,3372.74,Net Banking,food expense
+2024-03-19,Health,1374.92,Cash,health expense
+2023-10-01,Travel,1560.18,Net Banking,travel expense
+2023-09-28,Travel,3249.19,UPI,travel expense
+2023-10-02,Entertainment,163.54,Net Banking,entertainment expense
+2023-10-22,Education,4001.58,UPI,education expense
+2023-05-29,Entertainment,4195.17,UPI,entertainment expense
+2024-02-07,Travel,1656.45,UPI,travel expense
+2024-01-29,Entertainment,2343.17,Net Banking,entertainment expense
+2023-03-20,Shopping,3494.02,Cash,shopping expense
+2024-01-04,Utilities,2514.91,UPI,utilities expense
+2023-02-25,Utilities,4681.91,UPI,utilities expense
+2023-09-21,Entertainment,2045.56,Net Banking,entertainment expense
+2023-02-25,Utilities,4902.31,Cash,utilities expense
+2023-04-10,Food,1221.32,Cash,food expense
+2023-03-20,Food,3396.56,UPI,food expense
+2023-09-09,Education,1099.87,UPI,education expense
+2023-12-12,Utilities,4115.08,Net Banking,utilities expense
+2023-04-11,Food,4046.96,Net Banking,food expense
+2023-02-02,Shopping,2743.65,Cash,shopping expense
+2023-05-30,Education,879.14,Cash,education expense
+2024-01-06,Utilities,1368.63,UPI,utilities expense
+2023-06-27,Shopping,275.42,Net Banking,shopping expense
+2023-11-18,Entertainment,1745.37,UPI,entertainment expense
+2023-04-26,Food,4562.46,Net Banking,food expense
+2024-01-29,Shopping,4191.32,Card,shopping expense
+2023-10-29,Utilities,4126.46,UPI,utilities expense
+2023-02-23,Utilities,3256.4,Cash,utilities expense
+2023-10-15,Education,1042.68,UPI,education expense
+2024-01-29,Shopping,3677.24,Cash,shopping expense
+2024-02-14,Utilities,3324.62,Card,utilities expense
+2023-05-02,Shopping,3113.43,Cash,shopping expense
+2024-03-02,Education,3472.19,UPI,education expense
+2024-03-12,Health,1427.96,Cash,health expense
+2023-08-07,Food,2979.41,Cash,food expense
+2023-11-22,Education,3860.98,Net Banking,education expense
+2024-02-06,Utilities,258.43,Net Banking,utilities expense
+2023-08-31,Food,1990.87,UPI,food expense
+2023-05-03,Food,1480.62,UPI,food expense
+2023-06-06,Health,172.68,UPI,health expense
+2023-10-07,Entertainment,2357.56,Card,entertainment expense
+2023-07-30,Health,753.08,Card,health expense
+2023-07-13,Shopping,2191.01,Cash,shopping expense
+2023-03-14,Shopping,2860.44,Net Banking,shopping expense
+2023-12-17,Entertainment,2540.66,UPI,entertainment expense
+2023-04-01,Utilities,4754.21,Net Banking,utilities expense
+2024-02-22,Education,4413.59,Card,education expense
+2023-10-27,Food,349.47,Card,food expense
+2023-11-07,Travel,3374.12,Cash,travel expense
+2023-07-02,Travel,1391.35,Card,travel expense
+2023-06-14,Health,3547.48,Cash,health expense
+2023-11-14,Education,4758.18,Net Banking,education expense
+2023-09-16,Shopping,3828.19,Cash,shopping expense
+2024-01-30,Entertainment,4211.74,Cash,entertainment expense
+2024-01-26,Shopping,3162.28,Net Banking,shopping expense
+2023-11-16,Health,4083.67,UPI,health expense
+2023-05-06,Education,1326.71,Cash,education expense
+2023-03-01,Travel,3887.8,Card,travel expense
+2023-01-05,Utilities,4902.81,UPI,utilities expense
+2024-02-06,Food,4314.54,UPI,food expense
+2024-01-24,Entertainment,940.48,Cash,entertainment expense
+2023-08-05,Entertainment,4263.27,UPI,entertainment expense
+2023-02-22,Utilities,3657.59,Cash,utilities expense
+2023-01-12,Shopping,4535.38,UPI,shopping expense
+2023-10-24,Utilities,2297.07,Card,utilities expense
+2023-04-20,Shopping,4922.14,Cash,shopping expense
+2024-01-29,Education,665.25,UPI,education expense
+2023-07-15,Utilities,3018.48,Net Banking,utilities expense
+2023-07-03,Utilities,2861.79,Card,utilities expense
+2023-07-23,Food,1420.98,Cash,food expense
+2024-02-21,Travel,1116.36,Cash,travel expense
+2023-06-02,Education,1700.75,Net Banking,education expense
+2023-03-08,Entertainment,320.45,UPI,entertainment expense
+2023-12-29,Travel,1689.86,Net Banking,travel expense
+2023-12-15,Travel,1414.53,UPI,travel expense
+2023-01-17,Entertainment,4389.68,UPI,entertainment expense
+2023-05-28,Health,3755.03,UPI,health expense
+2023-05-25,Entertainment,4746.02,Net Banking,entertainment expense
+2023-08-04,Health,4329.67,Net Banking,health expense
+2023-05-20,Education,2346.28,Card,education expense
+2023-08-13,Health,2100.42,UPI,health expense
+2023-11-21,Utilities,2187.81,Net Banking,utilities expense
+2023-06-16,Entertainment,2362.15,Net Banking,entertainment expense
+2023-03-26,Shopping,3085.4,Cash,shopping expense
+2023-08-27,Health,1214.21,Card,health expense
+2023-10-25,Entertainment,3666.86,Cash,entertainment expense
+2023-08-10,Education,3493.91,Cash,education expense
+2023-06-04,Travel,685.48,Net Banking,travel expense
+2023-03-20,Entertainment,1788.28,UPI,entertainment expense
+2023-12-11,Shopping,1646.1,Cash,shopping expense
+2023-05-23,Utilities,3187.73,Cash,utilities expense
+2023-01-19,Education,900.88,Cash,education expense
+2024-02-02,Travel,4880.33,Card,travel expense
+2023-12-30,Health,1742.67,Cash,health expense
+2023-11-14,Entertainment,1790.18,Card,entertainment expense
+2023-04-20,Health,4264.92,Net Banking,health expense
+2023-08-20,Health,1659.29,Net Banking,health expense
+2023-08-28,Education,499.91,Net Banking,education expense
+2023-03-27,Shopping,4593.31,UPI,shopping expense
+2023-06-20,Shopping,3715.94,Card,shopping expense
+2023-06-08,Education,2152.25,Cash,education expense
+2023-05-29,Education,2342.58,Net Banking,education expense
+2024-01-17,Utilities,348.02,Card,utilities expense
+2023-06-04,Food,4771.8,Cash,food expense
+2023-05-09,Travel,429.01,UPI,travel expense
+2024-02-19,Entertainment,3744.31,Card,entertainment expense
+2023-05-21,Utilities,3452.4,Cash,utilities expense
+2023-01-24,Shopping,2554.16,Net Banking,shopping expense
+2023-03-17,Shopping,4981.37,Net Banking,shopping expense
+2023-08-30,Shopping,3120.02,Card,shopping expense
+2023-04-28,Entertainment,628.97,UPI,entertainment expense
+2023-08-23,Food,1240.25,Card,food expense
+2023-05-03,Entertainment,4744.42,Cash,entertainment expense
+2023-06-21,Utilities,2853.94,Card,utilities expense
+2023-02-20,Travel,1093.94,Card,travel expense
+2024-03-05,Entertainment,2551.93,Net Banking,entertainment expense
+2023-06-05,Education,3595.45,Cash,education expense
+2023-02-28,Shopping,4242.52,Card,shopping expense
+2023-06-09,Shopping,3399.61,UPI,shopping expense
+2023-05-18,Travel,2813.61,Net Banking,travel expense
+2024-03-25,Entertainment,4072.39,Card,entertainment expense
+2023-07-04,Entertainment,4010.02,Card,entertainment expense
+2023-04-26,Entertainment,281.81,Card,entertainment expense
+2023-03-20,Entertainment,1364.61,Cash,entertainment expense
+2023-02-18,Education,4968.75,Net Banking,education expense
+2023-10-17,Shopping,1827.82,Net Banking,shopping expense
+2023-04-16,Entertainment,4432.49,Net Banking,entertainment expense
+2024-03-07,Utilities,4598.45,Cash,utilities expense
+2023-02-19,Travel,3460.44,Cash,travel expense
+2023-11-10,Entertainment,3868.66,Card,entertainment expense
+2023-03-29,Utilities,3709.92,Card,utilities expense
+2023-11-06,Shopping,4210.53,Cash,shopping expense
+2023-11-30,Health,3271.26,Card,health expense
+2023-04-11,Travel,1112.94,UPI,travel expense
+2023-04-16,Education,990.18,UPI,education expense
+2023-11-04,Food,1911.14,UPI,food expense
+2023-10-22,Shopping,2261.61,Card,shopping expense
+2023-01-02,Food,2025.03,Card,food expense
+2023-04-22,Travel,3738.93,Cash,travel expense
+2024-03-23,Travel,4064.01,Card,travel expense
+2023-12-05,Utilities,4812.39,Cash,utilities expense
+2023-05-01,Shopping,2003.16,Card,shopping expense
+2024-02-25,Entertainment,4607.72,Net Banking,entertainment expense
+2023-04-13,Utilities,4567.91,UPI,utilities expense
+2023-06-15,Travel,157.16,Cash,travel expense
+2023-03-13,Health,2181.64,Net Banking,health expense
+2023-11-25,Entertainment,4591.42,Card,entertainment expense
+2023-07-12,Entertainment,427.07,Card,entertainment expense
+2023-12-23,Food,3258.84,UPI,food expense
+2023-05-11,Shopping,193.95,Card,shopping expense
+2024-01-24,Health,4001.67,Cash,health expense
+2023-12-09,Health,3908.29,Net Banking,health expense
+2023-07-17,Health,298.04,Net Banking,health expense
+2023-11-18,Food,1501.78,UPI,food expense
+2023-07-17,Education,4732.82,Card,education expense
+2023-09-30,Shopping,4605.48,Net Banking,shopping expense
+2023-09-23,Entertainment,2096.05,Card,entertainment expense
+2023-08-16,Education,3456.66,UPI,education expense
+2023-01-18,Food,2116.42,Net Banking,food expense
+2023-02-04,Food,1522.8,Net Banking,food expense
+2023-03-21,Travel,1897.44,Cash,travel expense
+2023-09-06,Education,2362.6,Card,education expense
+2023-11-04,Health,2550.25,Net Banking,health expense
+2023-04-30,Education,4656.19,UPI,education expense
+2023-11-20,Travel,3452.65,Card,travel expense
+2024-02-28,Shopping,2345.49,Cash,shopping expense
+2023-12-30,Health,1351.39,Cash,health expense
+2023-08-16,Travel,967.79,Card,travel expense
+2023-04-19,Education,3854.11,Card,education expense
+2024-02-04,Health,1298.57,Card,health expense
+2023-01-11,Travel,4872.04,Net Banking,travel expense
+2023-06-14,Food,4305.32,UPI,food expense
+2023-04-06,Shopping,4794.64,Net Banking,shopping expense
+2023-06-08,Entertainment,4437.42,Card,entertainment expense
+2023-04-01,Utilities,2901.17,UPI,utilities expense
+2023-07-08,Education,1898.26,UPI,education expense
+2024-02-29,Entertainment,2135.95,UPI,entertainment expense
+2024-01-21,Health,2376.62,Net Banking,health expense
+2023-08-09,Shopping,2466.13,Card,shopping expense
+2023-09-25,Shopping,3338.84,Card,shopping expense
+2023-07-12,Travel,608.62,Cash,travel expense
+2023-03-17,Health,3208.26,Card,health expense
+2023-01-21,Education,4337.14,Cash,education expense
+2024-01-09,Health,1267.38,Cash,health expense
+2024-01-03,Education,286.94,UPI,education expense
+2023-02-19,Travel,2203.49,Cash,travel expense
+2023-11-07,Shopping,1712.71,Card,shopping expense
+2023-06-29,Food,2261.92,Cash,food expense
+2023-08-29,Education,2294.72,Card,education expense
+2023-03-26,Shopping,3541.96,Cash,shopping expense
+2024-02-16,Shopping,4754.84,Card,shopping expense
+2023-03-23,Entertainment,4269.69,Net Banking,entertainment expense
+2023-12-21,Food,1862.17,Card,food expense
+2023-02-18,Education,4161.97,UPI,education expense
+2023-03-15,Shopping,1513.55,Net Banking,shopping expense
+2024-01-24,Utilities,239.8,Cash,utilities expense
+2023-06-25,Entertainment,662.23,Cash,entertainment expense
+2023-05-01,Shopping,3548.15,UPI,shopping expense
+2024-01-16,Entertainment,3043.02,Cash,entertainment expense
+2024-03-20,Entertainment,2977.49,Card,entertainment expense
+2023-10-18,Utilities,750.8,Card,utilities expense
+2023-08-16,Entertainment,1385.74,Net Banking,entertainment expense
+2023-04-24,Shopping,1647.6,Card,shopping expense
+2023-12-15,Health,1003.94,Net Banking,health expense
+2023-05-16,Education,337.59,Card,education expense
+2023-10-27,Food,2917.97,Card,food expense
+2023-04-21,Health,4879.02,Card,health expense
+2024-01-14,Shopping,2802.87,Card,shopping expense
+2023-12-02,Education,3502.09,Net Banking,education expense
+2024-03-10,Entertainment,3238.71,Cash,entertainment expense
+2024-02-29,Education,3187.34,Card,education expense
+2023-08-28,Travel,904.61,Net Banking,travel expense
+2023-03-04,Travel,351.75,Card,travel expense
+2023-05-30,Utilities,1312.32,UPI,utilities expense
+2023-05-22,Shopping,4159.0,UPI,shopping expense
+2024-03-10,Health,1905.33,Card,health expense
+2023-03-03,Travel,3758.46,Card,travel expense
+2023-11-24,Food,860.61,Card,food expense
+2023-11-28,Health,3326.02,Net Banking,health expense
+2024-02-20,Travel,1337.62,Cash,travel expense
+2023-09-17,Health,2520.93,UPI,health expense
+2023-01-31,Food,1694.1,Cash,food expense
+2023-03-13,Health,1673.53,Card,health expense
+2023-12-27,Health,303.85,Net Banking,health expense
+2023-08-27,Travel,4824.73,Card,travel expense
+2023-04-05,Shopping,4925.04,Card,shopping expense
+2023-03-27,Shopping,3647.06,UPI,shopping expense
+2024-02-11,Food,1011.56,Card,food expense
+2023-06-06,Education,1874.5,Net Banking,education expense
+2023-08-25,Food,4480.75,Card,food expense
+2023-06-25,Education,464.24,UPI,education expense
+2024-01-12,Travel,1699.01,Card,travel expense
+2024-02-16,Health,4830.64,UPI,health expense
+2023-08-08,Entertainment,1448.69,Card,entertainment expense
+2023-04-05,Health,3837.44,UPI,health expense
+2023-03-07,Travel,1948.86,Net Banking,travel expense
+2024-01-12,Shopping,1703.64,Card,shopping expense
+2023-12-25,Health,259.73,UPI,health expense
+2023-09-17,Food,1439.01,Cash,food expense
+2023-05-16,Education,2584.84,UPI,education expense
+2023-07-19,Entertainment,773.66,UPI,entertainment expense
+2023-01-11,Utilities,1923.58,Card,utilities expense
+2023-06-04,Education,4611.45,UPI,education expense
+2023-08-04,Education,4627.41,Cash,education expense
+2024-02-05,Travel,4968.21,Net Banking,travel expense
+2023-05-13,Food,4316.08,Card,food expense
+2023-02-23,Education,1737.02,UPI,education expense
+2023-06-15,Food,1415.48,Net Banking,food expense
+2023-08-08,Health,711.39,Card,health expense
+2023-05-11,Shopping,3443.34,Net Banking,shopping expense
+2024-03-02,Health,2633.27,Net Banking,health expense
+2023-10-05,Food,925.71,Net Banking,food expense
+2023-05-21,Utilities,4137.64,Card,utilities expense
+2024-01-15,Entertainment,4602.95,UPI,entertainment expense
+2023-09-16,Health,730.57,Card,health expense
+2024-03-22,Entertainment,1213.6,Net Banking,entertainment expense
+2023-10-05,Food,2671.29,Cash,food expense
+2024-02-14,Education,3438.06,UPI,education expense
+2023-02-17,Education,430.88,Card,education expense
+2023-08-12,Food,1747.17,Card,food expense
+2023-10-24,Utilities,1497.67,Net Banking,utilities expense
+2023-07-19,Education,3134.53,Net Banking,education expense
+2023-08-11,Shopping,4269.0,Card,shopping expense
+2023-12-04,Health,307.27,UPI,health expense
+2023-08-06,Food,1367.41,Cash,food expense
+2023-11-17,Entertainment,989.0,Net Banking,entertainment expense
+2024-01-25,Entertainment,511.05,Cash,entertainment expense
+2023-04-13,Entertainment,692.09,Net Banking,entertainment expense
+2023-01-22,Travel,449.87,Net Banking,travel expense
+2024-02-18,Utilities,2925.46,Cash,utilities expense
+2023-01-24,Education,2882.21,Card,education expense
+2024-02-10,Travel,3824.0,Net Banking,travel expense
+2023-01-11,Shopping,3941.95,Net Banking,shopping expense
+2023-05-16,Travel,972.03,Cash,travel expense
+2023-06-06,Education,4158.77,Cash,education expense
+2023-10-24,Education,1546.83,Net Banking,education expense
+2024-03-19,Utilities,1754.26,UPI,utilities expense
+2023-05-27,Shopping,4969.07,Net Banking,shopping expense
+2023-08-21,Shopping,2821.08,UPI,shopping expense
+2023-06-17,Shopping,4764.71,Cash,shopping expense
+2023-12-19,Food,2412.03,Card,food expense
+2023-04-17,Travel,3136.77,Cash,travel expense
+2023-08-31,Entertainment,2612.98,Net Banking,entertainment expense
+2024-01-02,Entertainment,1797.98,Net Banking,entertainment expense
+2023-12-26,Education,454.89,Cash,education expense
+2023-06-09,Entertainment,3541.69,Cash,entertainment expense
+2023-10-22,Entertainment,1877.57,Card,entertainment expense
+2023-03-01,Utilities,670.2,UPI,utilities expense
+2024-01-15,Shopping,2204.26,Card,shopping expense
+2023-09-22,Shopping,519.21,Cash,shopping expense
+2023-04-30,Utilities,3318.23,UPI,utilities expense
+2023-12-07,Food,3789.29,UPI,food expense
+2023-02-01,Education,3438.21,Cash,education expense
+2023-05-07,Food,2319.71,UPI,food expense
+2023-09-18,Utilities,233.69,Net Banking,utilities expense
+2023-05-16,Education,2773.52,Cash,education expense
+2024-02-02,Travel,1739.89,Cash,travel expense
+2023-07-02,Education,2223.52,Net Banking,education expense
+2023-05-19,Shopping,4355.29,Card,shopping expense
+2023-03-16,Shopping,2365.45,Net Banking,shopping expense
+2023-03-08,Education,3644.24,UPI,education expense
+2023-03-27,Food,2347.46,Card,food expense
+2023-09-13,Travel,1849.55,UPI,travel expense
+2023-06-20,Health,1178.43,Card,health expense
+2023-01-23,Entertainment,424.08,Net Banking,entertainment expense
+2023-02-26,Food,311.08,UPI,food expense
+2023-09-26,Utilities,2889.07,Card,utilities expense
+2024-01-30,Utilities,1929.23,UPI,utilities expense
+2023-11-14,Education,666.88,Net Banking,education expense
+2023-08-29,Entertainment,4048.55,Net Banking,entertainment expense
+2023-07-01,Utilities,4336.09,Net Banking,utilities expense
+2023-11-29,Shopping,1808.22,Card,shopping expense
+2023-02-14,Utilities,2568.27,Net Banking,utilities expense
+2023-04-04,Food,2800.5,Cash,food expense
+2023-07-26,Health,3485.96,Net Banking,health expense
+2023-02-13,Shopping,863.38,Net Banking,shopping expense
+2024-02-03,Travel,1095.0,Card,travel expense
+2023-10-15,Education,626.05,Net Banking,education expense
+2023-10-22,Shopping,4198.76,UPI,shopping expense
+2023-12-20,Education,3687.06,Card,education expense
+2024-01-13,Travel,1168.27,Net Banking,travel expense
+2023-11-30,Entertainment,3810.97,Net Banking,entertainment expense
+2023-06-27,Travel,1038.46,Card,travel expense
+2023-04-11,Health,1644.33,Net Banking,health expense
+2023-05-22,Shopping,3254.38,Cash,shopping expense
+2023-03-14,Entertainment,1276.09,Net Banking,entertainment expense
+2023-06-03,Food,246.78,Cash,food expense
+2023-10-22,Health,3098.27,UPI,health expense
+2023-01-26,Utilities,144.99,UPI,utilities expense
+2023-10-24,Shopping,3643.51,Card,shopping expense
+2023-05-19,Food,3317.12,UPI,food expense
+2023-03-04,Health,4861.42,UPI,health expense
+2023-03-15,Health,1409.11,Card,health expense
+2023-10-29,Travel,1989.58,UPI,travel expense
+2023-09-12,Utilities,1733.43,Net Banking,utilities expense
+2023-02-20,Entertainment,2607.6,Net Banking,entertainment expense
+2023-08-23,Food,3770.97,Cash,food expense
+2024-02-25,Food,3704.55,Card,food expense
+2023-10-15,Utilities,3227.4,Card,utilities expense
+2023-08-29,Shopping,674.65,Net Banking,shopping expense
+2024-01-08,Entertainment,4502.83,Card,entertainment expense
+2023-04-15,Entertainment,618.82,Net Banking,entertainment expense
+2023-06-20,Health,696.58,UPI,health expense
+2023-07-10,Food,1664.18,Card,food expense
+2023-03-18,Education,1089.09,UPI,education expense
+2023-06-13,Health,2044.59,Net Banking,health expense
+2024-02-12,Education,3747.7,Card,education expense
+2023-01-03,Food,4484.32,Cash,food expense
+2023-11-12,Education,1090.21,Cash,education expense
+2023-07-14,Education,3371.78,UPI,education expense
+2023-10-26,Utilities,453.81,Net Banking,utilities expense
+2023-03-08,Education,2498.37,Cash,education expense
+2023-05-12,Travel,4383.63,Card,travel expense
+2023-07-03,Education,4416.56,Net Banking,education expense
+2024-03-21,Education,4933.09,Cash,education expense
+2024-03-03,Utilities,1916.16,UPI,utilities expense
+2024-03-01,Entertainment,3454.29,Net Banking,entertainment expense
+2023-08-26,Health,4699.34,UPI,health expense
+2023-09-30,Food,2060.66,Card,food expense
+2024-02-06,Utilities,4700.39,Card,utilities expense
+2023-06-26,Utilities,2324.95,Cash,utilities expense
+2023-01-20,Education,2560.84,Cash,education expense
+2023-11-15,Education,793.11,Net Banking,education expense
+2024-02-24,Travel,269.62,Cash,travel expense
+2023-05-15,Travel,3959.21,Cash,travel expense
+2023-06-21,Food,3435.03,UPI,food expense
+2023-05-03,Entertainment,924.09,Card,entertainment expense
+2023-05-24,Shopping,243.1,Net Banking,shopping expense
+2024-02-25,Health,119.71,Cash,health expense
+2023-06-22,Education,4546.78,Net Banking,education expense
+2023-03-07,Health,4896.74,Cash,health expense
+2023-04-11,Entertainment,1128.23,Card,entertainment expense
+2024-01-21,Food,695.04,Cash,food expense
+2023-03-15,Food,3677.22,Card,food expense
+2023-06-10,Education,3336.47,UPI,education expense
+2024-03-24,Entertainment,4520.98,Card,entertainment expense
+2023-01-10,Education,3596.47,UPI,education expense
+2023-12-17,Education,3085.31,Net Banking,education expense
+2023-05-20,Utilities,4007.68,Card,utilities expense
+2023-03-22,Shopping,4659.57,Net Banking,shopping expense
+2023-03-14,Utilities,236.14,Card,utilities expense
+2023-04-01,Entertainment,2873.0,UPI,entertainment expense
+2023-02-04,Education,529.1,Net Banking,education expense
+2024-02-12,Entertainment,143.12,Net Banking,entertainment expense
+2024-03-13,Entertainment,613.87,UPI,entertainment expense
+2023-01-17,Travel,335.84,Cash,travel expense
+2024-03-13,Education,3610.02,Cash,education expense
+2023-11-07,Food,1571.7,Net Banking,food expense
+2023-11-14,Health,3968.37,Net Banking,health expense
+2023-12-17,Shopping,2622.83,Card,shopping expense
+2024-03-04,Education,1940.87,Net Banking,education expense
+2023-09-20,Travel,3320.11,Card,travel expense
+2023-06-01,Travel,983.24,Cash,travel expense
+2023-10-09,Health,3738.4,Card,health expense
+2023-05-15,Utilities,3442.24,Net Banking,utilities expense
+2023-05-22,Entertainment,4028.1,Cash,entertainment expense
+2024-02-25,Travel,2415.9,Card,travel expense
+2024-01-02,Travel,185.34,Cash,travel expense
+2023-08-01,Entertainment,935.05,Net Banking,entertainment expense
+2023-11-11,Health,4322.14,Card,health expense
+2024-03-21,Entertainment,376.25,UPI,entertainment expense
+2023-02-06,Health,312.69,Cash,health expense
+2024-03-07,Education,3064.97,Card,education expense
+2023-05-06,Shopping,3641.36,Cash,shopping expense
+2023-10-05,Health,3317.39,Card,health expense
+2024-02-14,Shopping,2182.19,Card,shopping expense
+2024-03-18,Health,2504.33,Net Banking,health expense
+2023-08-04,Food,4340.23,Cash,food expense
+2024-03-25,Health,4892.03,Card,health expense
+2024-01-24,Education,2523.08,Card,education expense
